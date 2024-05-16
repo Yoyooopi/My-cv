@@ -16,7 +16,8 @@ To view my CV, simply click on the file named `cv.html` above.
 ## Additional Files
 
 - `cv.html`: Main HTML file for the CV.
-- `cv.css`: CSS file for styling .
+- `cv.css`: CSS file for styling
+  [here](cv.css)
 
 ## Contact Information
 
